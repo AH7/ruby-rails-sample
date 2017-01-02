@@ -1,5 +1,6 @@
 # ruby-rails-sample
 [![Known Vulnerabilities](https://snyk.io/test/github/AH7/ruby-rails-sample/badge.svg)](https://snyk.io/test/github/AH7/ruby-rails-sample)
+[![Known Vulnerabilities](https://snyk.io/test/github/AH7/ruby-rails-sample/badge.svg)](https://snyk.io/test/github/AH7/ruby-rails-sample)
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 
